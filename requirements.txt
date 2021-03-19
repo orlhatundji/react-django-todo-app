@@ -3,7 +3,7 @@
 # defusedxml==0.6.0
 Django==2.2.7
 django-cors-headers==3.2.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 # idna==2.8
 python3-openid==3.1.0
 pytz==2019.3
